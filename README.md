@@ -1,2 +1,2 @@
-# taska-tmakas
+# taskağtmakas
 projeleriaktarmak için
