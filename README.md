@@ -1,0 +1,2 @@
+# taska-tmakas
+projeleriaktarmak için
